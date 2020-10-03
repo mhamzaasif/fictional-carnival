@@ -14,3 +14,7 @@ A dark theme for mailspring email client based on dracula n1-nylas theme.
 ├── LICENSE.md             # License with usage rights
 └── README.md              # Info about your theme and how to use it
 ```
+
+## Credits
+
+This theme is generated using the mailspring theme starter and color pallete is borrowed from dracula n1-nylas theme.
